@@ -1,0 +1,6 @@
+C:\Users\anatolii.butko\source\repos\users_parsing\bin\Debug\users_parsing.exe
+C:\Users\anatolii.butko\source\repos\users_parsing\bin\Debug\users_parsing.pdb
+C:\Users\anatolii.butko\source\repos\users_parsing\obj\Debug\users_parsing.csproj.AssemblyReference.cache
+C:\Users\anatolii.butko\source\repos\users_parsing\obj\Debug\users_parsing.csproj.CoreCompileInputs.cache
+C:\Users\anatolii.butko\source\repos\users_parsing\obj\Debug\users_parsing.exe
+C:\Users\anatolii.butko\source\repos\users_parsing\obj\Debug\users_parsing.pdb
